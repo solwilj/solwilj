@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @solwilj. I am a full stack .NET developer, familiarized with an array of FrontEnd frameworks such as WPF, Angular, React.
+Hi, I’m @solwilj. I am a full stack .NET developer, familiarized with an array of FrontEnd frameworks such as WPF, Angular, React.
 
 Software Design Experience (~5y):
   -WPF (MVVM), WinForms (MVC)
